@@ -1,1 +1,3 @@
-# Pedestrian-Tracking-Maintance-of-Social-Distancing-for-COVID-19
+# udemy_pedestriandetection
+
+Uses pre-trained haar cascade classifier to detect pedestrians and cars on the road.
